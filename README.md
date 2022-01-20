@@ -13,5 +13,5 @@ Estudar sete horas diária.
 Fazer uma revisão no termino do curso.
 
 # Obijetivo 
-Finalizar curso.
-Conseguir emprego.
+Finalizar Curso.
+Conseguir Emprego.
